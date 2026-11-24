@@ -73,4 +73,4 @@ Cross-platform merchant application with modular architecture, Riverpod state ma
 
 - LinkedIn: www.linkedin.com/in/yared-deribe-fsd
 - Email: yareda19@gmail.com
-- Portfolio: 
+- Portfolio: https://protfolio-yared.vercel.app
